@@ -3,6 +3,10 @@ CKEditor 4 Changelog
 
 ## CKEditor 4.16
 
+API Changes:
+
+* [#3582](https://github.com/ckeditor/ckeditor4/issues/3582): Added the `right` view position to returned object to [CKEDITOR.plugins.autocomplete.view.getViewposition()](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_plugins_autocomplete_view.html#method-getViewPosition) method.
+
 ## CKEditor 4.15
 
 New features:
